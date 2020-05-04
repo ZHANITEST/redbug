@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"ZHANITEST"
+	],
+	"copyright": "Copyleft © 2020, ZHANITEST",
+	"description": "github.com/zhanitest",
+	"license": "GPL-3.0",
+	"dependencies": {
+		"requests": "~>1",
+	},
+	"name": "redbug"
+}
